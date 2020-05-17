@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
+ <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amsterdam trough centuries</title>
@@ -11,11 +11,10 @@
 
     <h1>About Amsterdam</h1>
 
-    <p1>
     Amsterdam has a long and eventful history. The origins of the city lie in the 12th century, when fishermen living along the banks of the River Amstel built a bridge across the waterway near the IJ, which at the time was a large saltwater inlet. 
     Wooden locks under the bridge served as a dam protecting the village from the rising IJ waters, which often flooded the early settlement. The mouth of the river Amstel, where the Damrak is now, formed a natural harbor,
     which became important for trading-exchange from the larger koggeships into the smaller ships that sailed the merchandise deeper into the hinterland.
-    </p1>
+
     <p2>
     The oldest document referring to the settlement of "Aemstelredamme" (Amsterdam) 'dam in the river Amstel' comes from a document dated 27 October 1275 CE. 
     Inhabitants of the village were, by this document, exempted from paying a bridge toll in the County of Holland by Count Floris V.
